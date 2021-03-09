@@ -33,7 +33,9 @@ class Person{
     public void hun(){
         System.out.println("i am fine!");
     }
-
+    public void fun(){
+        System.out.println("fuck");
+    }
 }
 
 
