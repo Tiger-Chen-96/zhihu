@@ -30,6 +30,9 @@ class Person{
     public void run(){
         System.out.println("k");
     }
+    public void hun(){
+        System.out.println("i am fine!");
+    }
 
 }
 
