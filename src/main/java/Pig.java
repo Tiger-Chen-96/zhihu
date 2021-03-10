@@ -34,7 +34,8 @@ class Person{
         System.out.println("i am fine!");
     }
     public void fun(){
-        System.out.println("fuck");
+        System.out.println("ni hao");
+        System.out.println("hi");
     }
 }
 
